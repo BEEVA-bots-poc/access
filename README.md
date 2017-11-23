@@ -2,7 +2,7 @@
 
 Open an issue in this repo asking to join to the organization.
 
-The issue will be notified in Slack by both of the chatbots ([botkit](https://github.com/BEEVA-bots-poc/adm-github-org-botkit) and [hubot(https://github.com/BEEVA-bots-poc/adm-github-org-hubot)]) and then an admin will interact with the chatbots to accept or reject the request.
+The issue will be notified in Slack by both of the chatbots ([botkit](https://github.com/BEEVA-bots-poc/adm-github-org-botkit) and [hubot](https://github.com/BEEVA-bots-poc/adm-github-org-hubot)) and then an admin will interact with the chatbots to accept or reject the request.
 
 ## Example
 
